@@ -17,7 +17,7 @@ html Css project
 👤 *kamogelo Ben Mokwana*
 
 -   Github: [@Officialkamogelo](https://github.com/Officialkamogelo)
--   Instagram: [@Kamogelodev](htpps://instagram.com/Kamogelo.dev)
+-   Instagram: [@Kamogelo.dev](htpps://instagram.com/Kamogelo.dev)
 -   Twitter: [@Artickamogelo](https://twitter.com/KamogeloMahlangu)
 -   Linkedin: [linkedin](https://www.linkedin.com/in/kamogelo-ben-mokwana)
 -   Email:   <Kamogelomokwana@outlook.com>
