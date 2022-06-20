@@ -19,7 +19,7 @@ html Css project
 -   Github: [@Officialkamogelo](https://github.com/Officialkamogelo)
 -   Instagram: [@Kamogelo.dev](htpps://instagram.com/Kamogelo.dev)
 -   Twitter: [@Artickamogelo](https://twitter.com/KamogeloMahlangu)
--   Linkedin: [linkedin]https://www.linkedin.com/in/kamogelo-ben-mokwana)
+-   Linkedin: [linkedin](https://www.linkedin.com/in/kamogelo-ben-mokwana)
 -   Email:   <Kamogelomokwana@outlook.com>
 -   <https://resume.netlify.com/>
 
