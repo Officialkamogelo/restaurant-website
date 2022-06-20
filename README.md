@@ -10,17 +10,18 @@ html Css project
 
 ## Live Demo
 
-[Live Demo Link](https://62a9e2d1e3e65a25b3257a71--famous-croquembouche-e59b62.netlify.app/)
+[Live Demo Link]
 
 ## Authors
 
 👤 *kamogelo Ben Mokwana*
 
--   Github: [@dev1980](https://github.com/dev1980)
--   Twitter: [@MahatoBrham](https://twitter.com/MahatoBrham)
--   Linkedin: [linkedin](https://www.linkedin.com/in/dev1980/)
+-   Github: [@Officialkamogelo](https://github.com/Officialkamogelo)
+-   Instagram [@Kamogelo.dev](htpps://instagram.com/Kamogelo.dev)
+-   Twitter: [@Artickamogelo](https://twitter.com/KamogeloMahlangu)
+-   Linkedin: [linkedin]https://www.linkedin.com/in/kamogelo-ben-mokwana)
 -   <Kamogelomokwana@outlook.com>
--   <https://brhamresume.netlify.com/>
+-   <https://resume.netlify.com/>
 
 ## 🤝 Contributing
 
