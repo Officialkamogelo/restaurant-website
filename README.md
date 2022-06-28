@@ -1,5 +1,5 @@
 # restaurant-website
-Creating a personal portfolio using 
+Creating a restaurant website using 
 HTML CSS
 
 
